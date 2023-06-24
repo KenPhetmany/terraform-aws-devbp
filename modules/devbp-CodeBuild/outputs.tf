@@ -1,0 +1,1 @@
+output "cb_name" { value = aws_codebuild_project.gomon_dev_codebuild.name}
